@@ -1,0 +1,20 @@
+.fisrt {
+    display: inline;
+    width: 100%;
+}
+
+.js-contact-nav-bar {
+    position: fixed;
+    display: block;
+    z-index: 9;
+    width: 100%;
+    height: 34px;
+    --md_display: none;
+}
+
+.header {
+    display: flex;
+    position: relative;
+    width: 100%;
+    align-self: center;
+}
